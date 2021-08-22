@@ -1,1 +1,1 @@
-# segundo-repositorio
+Exercícios do ETE.
